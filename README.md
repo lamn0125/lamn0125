@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi, I am Paz Lam! I am a junior front-end developer who currently live in Taiwan. I love learning new techologies and creating websites that attracts people. Although I am not a major student in Computer Science, I learnt developing skills and computer knowlege via online courses and free resoures. I hope to develope useful and interesting websites.
 <!--
 **lamn0125/lamn0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
